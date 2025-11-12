@@ -105,8 +105,3 @@ This project was collaboratively developed by:
 
 ---
 
-## Contributing
-
-Contributions are welcome. You may fork this repository and submit pull requests for improvements or new features.
-
----
